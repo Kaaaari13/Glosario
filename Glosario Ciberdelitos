@@ -1,5 +1,27 @@
-
-Dato: Representación simbólica de una entidad (caracteres), carecen de valor semántico y de sentido. Son incapaces de transmitir algún mensaje. 
+Dato: Representación simbólica de una entidad (caracteres), carecen de valor semántico y de sentido. Son incapaces de transmitir algún mensaje
 Información: Nace cuando un dato o conjunto de datos pasan a tener un significado de utilidad para la toma de decisiones 
-Informática Ciencia de la información. Conjunto de conocimientos técnicos que se ocupan del tratamiento automático de datos de información por medio de computadoras. 
+Informática Ciencia de la información. Conjunto de conocimientos técnicos que se ocupan del tratamiento automático de datos de información por medio de computadoras
 Internet: Conexión global de computadoras 
+Computadoras: Dispositivo electrónico capaz de recibir datos, procesarlos y entregar resultados en la forma deseada a través de la ejecución de cálculos matemáticos
+Delito cibernético: Cualquier comportamiento antijurídico, no ético o no autorizado, relacionado con el procesado automático de datos y/o transmisiones de datos
+Datos personales: Es toda aquella información expresada en forma alfabética, numérica, gráfica, acústica, fotográfica, concerniente a una persona física que la identifica o la hace identificable
+Sistemas de cómputo: Máquina compuesta por elementos como el Hardware, Software y redes que en conjunto trabajan para realizar una serie de cálculos aritméticos para procesar, almacenar y transmitir información 
+Base de datos:Conjunto organizado de información que se almacenan y gestionan a través de tablas organizadas 
+Sextorsión: Tipo de chantaje, delincuente amenaza con difundir contenido íntimo de una persona 
+Valores HASH: Funciones criptográficas que se realizan a través de un algoritmo matemático que transforma cualquier bloque arbitrario de datos en una nueva serie de caracteres con una longitud fija
+Cifrado de información: Proceso criptográfico que a nivel de código de los archivos convierte el texto legible en texto codificado 
+OSINT: Obtener respuestas precisas a través de cualquier motor de búsqueda   
+Indicios informáticos: Adquirir, preservar, obtener datos procesados electrónicamente a fin de dar certeza real y técnica de diversas autoridades que así lo soliciten, así como todos aquellos titulares de dicha información
+Indicios digitales: Cualquier información que sujeta a una intervención humana o una semejante, ha sido extraída de un medio informático 
+TRIADA SID: Confidencialidad, integridad, disponibilidad. Parámetros para manipular info para garantizar seguridad
+Capa de transporte: Garantizar que los paquetes de datos lleguen en el orden correcto, sin pérdidas ni errores
+Activo de información: Cualquier tipo de recurso que contenga información valiosa para una organización 
+Ciberseguridad: Tecnologías prácticas y políticas que sirven para prevenir ataques cibernéticos o mitigar su impacto. Su objetivo es proteger los sistemas informáticos, aplicaciones, dispositivos, datos, etc. contra toda actividad maliciosa digital 
+CRIME AS A SERVICE: Modelo de negocio ocupado por cibercriminales donde se ofertan herramientas servicios u otros para ejecutar ciberataques
+Sextorsión: Tipo de chantaje, delincuente amenaza con difundir contenido íntimo de una persona 
+Grooming: Forma de acoso y abuso sexual. Adulto se pone en contacto con menor para obtener beneficios sexuales 	 
+Fuerza bruta: Consiste en la adivinación de contraseñas, intentando con varias combinaciones  
+MAN IN THE MIDDLE: Interceptan mensajes de dos equipos que intentan comunicarse 
+BACK END: Almacenamiento y administración de datos, maneja las bases de datos 
+SQL INJECTION: Manipulación que permite “inyectar” código malicioso a las consultas de las bases de datos (están en la URL)  y así obtener acceso ilegitimo a la info  
+CROSS SITE SCRIPTING:Permite al atacante implantar scripts (fragmentos de código) en donde debería haber texto y obtener privilegios sobre la página con diversas consecuencias
